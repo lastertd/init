@@ -1,0 +1,221 @@
+.css-mbpjg {
+    align-content: center;
+    color: #fff;
+    color: var(--white, #fff);
+    display: grid;
+    justify-content: center;
+    margin-top: -5em;
+    min-height: 100vh;
+    place-content: center
+}
+
+.css-1jcbM {
+    padding: 0
+}
+
+.css-1jcbM header {
+    margin-bottom: 1em;
+    text-align: center
+}
+.css-NNoXC {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px
+}
+
+.css-0obWy {
+    max-width: 100%
+}
+
+.css-NYUnx {
+    background: linear-gradient(0deg, #46b2d9, #2d7dba);
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(4, 33, 109, .5);
+    color: #fff;
+    display: block;
+    margin: auto;
+    max-width: 1370px;
+    position: relative;
+    text-align: center;
+    width: 80vw
+}
+
+.css-O-wAl {
+    position: absolute;
+    right: -14px;
+    top: -28px
+}
+
+@media (min-width: 768px) {
+    .css-O-wAl {
+        right: -28px
+    }
+}
+
+.css-9vGak {
+    padding: 25px 20px
+}
+
+@media (min-width: 768px) {
+    .css-9vGak {
+        padding: 45px
+    }
+}
+
+.css-JXCXN {
+    margin-bottom: 15px;
+    max-height: 67px;
+    width: auto
+}
+
+@media (min-width: 768px) {
+    .css-JXCXN {
+        max-height: 95px
+    }
+}
+
+.css-U-mdK {
+    margin: 0 auto 50px;
+    max-width: 660px
+}
+
+.css-U-mdK p {
+    font-size: .875rem
+}
+
+@media (min-width: 768px) {
+    .css-U-mdK p {
+        font-size: 1.3125rem
+    }
+}
+
+.css-Iy\+Rp {
+    align-items: stretch;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+.css-qv04G {
+    max-width: 100%;
+    width: 410px
+}
+
+.css-mXD4A {
+    align-items: center;
+    background: #255a93;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, .2);
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    height: 100%;
+    justify-content: center;
+    padding: 20px 20px 10px;
+    width: 100%
+}
+
+.css-mXD4A:active, .css-mXD4A:hover {
+    background: var(--secondary-btn-hover);
+    border-color: var(--secondary-btn-hover);
+    color: var(--white)
+}
+
+.css-KyBmp {
+    display: block;
+    margin: auto 0;
+    max-height: 30px;
+    width: auto
+}
+
+@media (min-width: 768px) {
+    .css-KyBmp {
+        max-height: 41px
+    }
+}
+
+.css-PA6T2 {
+    display: block;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.5
+}
+
+@media (min-width: 768px) {
+    .css-PA6T2 {
+        font-size: 12px
+    }
+}
+
+.css-8lGPG {
+    background: #255a93;
+    border-radius: 0 0 20px 20px;
+    padding: 9px 20px
+}
+
+.css-8lGPG p {
+    font-size: 12px;
+    letter-spacing: .06em;
+    line-height: 1.5
+}
+
+
+.css-GSsq- {
+    background: none;
+    border: 0;
+    color: var(--sky-blue);
+    display: inline;
+    font-size: inherit;
+    font-weight: 700;
+    padding: 0;
+    -webkit-text-decoration: none;
+    text-decoration: none
+}
+
+.css-GSsq-:hover {
+    -webkit-text-decoration: underline;
+    text-decoration: underline
+}
+
+.css-H0zmh {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: var(--modal-max-width);
+    overflow: auto;
+    width: 100%
+}
+
+.css-rKQjT {
+    max-height: 90%;
+    max-width: 990px;
+    position: relative;
+    width: 90%
+}
+
+.css-x\+zj- {
+    position: absolute;
+    right: -15px;
+    top: -15px;
+    z-index: 10
+}
+
+@media (min-width: 768px) {
+    .css-x\+zj- {
+        right: -30px;
+        top: -30px
+    }
+}
+
+.css-q3fpZ {
+    height: 80vh;
+    width: 100%
+}

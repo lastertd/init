@@ -1,4 +1,4 @@
-import "/styles/test.scss"
+import "/src/styles/test.scss"
 
 import "./b.js"
 

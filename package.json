@@ -2,7 +2,7 @@
   "name": "pro",
   "version": "1.0.0",
   "description": "",
-  "main": "script/index.js",
+  "main": "src/script/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,9 +12,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vite": "^5.0.10"
+    "sass": "^1.69.5",
+    "scss": "^0.2.4",
+    "vite": "^2.9.16"
   },
   "dependencies": {
-    "sass": "^1.69.5"
+    "swiper": "^6.5.7"
   }
 }
